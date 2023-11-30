@@ -42,7 +42,7 @@
    &kp ESC   &kp Q &kp W &kp E &kp R &kp T       &kp Y &kp U  &kp I     &kp O   &kp P    &mo MEDIA
    &mt LSHFT TAB &kp A &kp S &kp D &kp F &kp G   &kp H &kp J  &kp K     &kp L   &kp SQT &kp RET
    &kp LCTRL &mt LALT Z &kp X &kp C &kp V &kp B   &kp N &kp M  &kp COMMA &kp DOT &mt LALT FSLH &kp RSHFT
-                  &kp LGUI &kp SPACE &mo NUMPAD   &mo NAVI &mo SYMBOL &kp BSPC
+                  &kp LGUI &kp SPACE &mo SYMBOL   &mo NAVI &mo NUMPAD &kp BSPC
                         >;
                 };
 
