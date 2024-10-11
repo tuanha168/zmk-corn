@@ -37,7 +37,7 @@
    &trans &kp GRAVE        &kp EXCL  &kp AT    &kp PLUS  &kp AMPS                      &kp SEMI  &kp LBKT  &kp RBKT  &none    &none    &trans
    &trans &kp ASTRK        &kp CARET &kp PRCNT &kp DLLR  &kp PIPE                      &kp COLON &kp LPAR  &kp RPAR  &kp LT   &kp GT   &trans
    &trans &mt LSHFT BSLH   &kp SLASH &kp EQUAL &kp MINUS &kp HASH &trans        &trans &kp UNDER &kp LBRC  &kp RBRC  &none    &none    &trans
-                          &trans    &trans    &trans    &trans                        &trans    &trans    &trans    &trans
+                           &trans    &trans    &trans    &trans                        &trans    &trans    &trans    &trans
                         >;
                 };
 
