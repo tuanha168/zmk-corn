@@ -1,0 +1,3 @@
+[submodule "nice-view-gem"]
+	path = nice-view-gem
+	url = ../nice-view-gem.git
